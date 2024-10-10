@@ -9,7 +9,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Yurii_Makoveichuk <yuriimakoveichuk@gmail.com>",
+  "author": "Oleksii_Bespalyi <skripkinlexxx@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.7",

@@ -33,10 +33,6 @@ router.post(
   ctrlWrapper(createContactController),
 );
 
-router.delete('/:contactId', isValidId, ctrlWrapper(deleteContactController));
-
-router.put('/:contactId', isValidId, ctrlWrapper(upsertContactController));
-
 router.patch(
   '/:contactId',
   isValidId,

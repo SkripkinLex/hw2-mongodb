@@ -8,11 +8,7 @@ export const SORT_ORDER = {
 export const FIFTEEN_MINUTES = 15 * 60 * 1000;
 export const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
 
-export const API_URL = 'https://api.example.com';
-export const constants = {
-  UPLOAD_DIR,
-  API_URL,
-};
+
 
 export const SMTP = {
   SMTP_HOST: 'SMTP_HOST',
